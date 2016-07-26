@@ -1,1 +1,1 @@
-include ':app', ':mylints', ':android_mylints'
+include ':app', ':mylints', ':mylints_arr'

@@ -12,6 +12,6 @@ import java.util.List;
 public class MyIssueRegistry extends IssueRegistry {
     @Override
     public List<Issue> getIssues() {
-        return Arrays.asList(LoggerUsageDetector.ISSUE);
+        return Arrays.asList(LogDetector.ISSUE,JavaChineseStringDetector.ISSUE);
     }
 }
