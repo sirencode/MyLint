@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyLint.iml" filepath="$PROJECT_DIR$/MyLint.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mylints/mylints.iml" filepath="$PROJECT_DIR$/mylints/mylints.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YtxLints/mylints.iml" filepath="$PROJECT_DIR$/YtxLints/mylints.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YtxlLints_aar/mylints_aar.iml" filepath="$PROJECT_DIR$/YtxlLints_aar/mylints_aar.iml" />
       <module fileurl="file://$PROJECT_DIR$/mylints_arr/android_mylints.iml" filepath="$PROJECT_DIR$/mylints_arr/android_mylints.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylints_aar/mylints_arr.iml" filepath="$PROJECT_DIR$/mylints_aar/mylints_arr.iml" />
     </modules>
   </component>
 </project>

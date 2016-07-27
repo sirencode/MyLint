@@ -1,0 +1,5 @@
+/Users/Diablo/AndroidStudioProjects/MyLint/app/src/main/java/com/lint/diablo/mylint/MainActivity.java
+/Users/Diablo/AndroidStudioProjects/MyLint/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java
+/Users/Diablo/AndroidStudioProjects/MyLint/app/build/generated/source/r/debug/com/lint/diablo/android_mylints/R.java
+/Users/Diablo/AndroidStudioProjects/MyLint/app/build/generated/source/r/debug/com/lint/diablo/mylint/R.java
+/Users/Diablo/AndroidStudioProjects/MyLint/app/build/generated/source/buildConfig/debug/com/lint/diablo/mylint/BuildConfig.java

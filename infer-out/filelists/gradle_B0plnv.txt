@@ -1,0 +1,3 @@
+/Users/Diablo/AndroidStudioProjects/MyLint/mylints_arr/build/generated/source/r/release/android/support/v7/appcompat/R.java
+/Users/Diablo/AndroidStudioProjects/MyLint/mylints_arr/build/generated/source/r/release/com/lint/diablo/android_mylints/R.java
+/Users/Diablo/AndroidStudioProjects/MyLint/mylints_arr/build/generated/source/buildConfig/release/com/lint/diablo/android_mylints/BuildConfig.java

@@ -8,17 +8,17 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/YtxLints" />
+            <option value="$PROJECT_DIR$/YtxlLints_aar" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/mylints" />
-            <option value="$PROJECT_DIR$/mylints_arr" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/YtxLints" />
+            <option value="$PROJECT_DIR$/YtxlLints_aar" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/mylints" />
-            <option value="$PROJECT_DIR$/mylints_arr" />
           </set>
         </option>
       </GradleProjectSettings>
